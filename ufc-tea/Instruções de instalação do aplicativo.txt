@@ -1,0 +1,14 @@
+Instruções para instalação do aplicativo
+
+O arquivo do aplicativo está localizado em ufc-tea-react\ufc-tea\App - finalizado .aab\app-release.aab
+
+1: O aplicativo está em formato .aab
+2: Baixe o arquivo 
+2: Baixe um aplicativo para converter aab para apk
+	Fica a seu critério qual aplicativo deve ser instalado
+3: Realize a conversão do arquivo baixado dentro do aplicativo instalado no seu telefone
+4: Finalizado, basta instalar o arquivo apk convertido
+	Obs: Alguns aplicativos já convertem e instalam ao mesmo tempo, verifique se seu aplicativo escolhido realizou esse
+	procedimento. Caso não, verifique seu gerenciador de arquivos e procure o aplicativo convertido no formato apk
+5. Pronto, seu aplicativo está pronto para uso!
+
